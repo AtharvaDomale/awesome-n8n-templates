@@ -1,10 +1,10 @@
 # Awesome n8n Templates
 
-Welcome to the n8n Templates Hub! This is a collection of pre-made n8n workflows and automation templates contributed by the community. These templates can help save you time by providing a starting point for your automations.
+Welcome to the Awesome n8n Templates! This is a collection of pre-made n8n workflows and automation templates contributed by the community. These templates can help save you time by providing a starting point for your automations.
 
 ## How to Use
 
-1. Browse through the templates in the [templates directory](./templates).
+1. Browse through the templates in the [templates directory](./Templates).
 2. Import any template into your n8n instance.
 3. Modify and adapt it to fit your needs!
 
@@ -17,7 +17,7 @@ We welcome contributions! If you have a template to share, please follow the ins
 ### 3. Add your `.json` file to the `/templates` directory.
 ### 4. Create a pull request!
 
-For more details, check the [contributing guidelines](./contributing/guidelines.md).
+For more details, check the [contributing guidelines](./Contributing/guidelines.md).
 
 
 ## Community
