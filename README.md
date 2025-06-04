@@ -1,4 +1,4 @@
-# n8n Templates Hub
+# Awesome n8n Templates
 
 Welcome to the n8n Templates Hub! This is a collection of pre-made n8n workflows and automation templates contributed by the community. These templates can help save you time by providing a starting point for your automations.
 
