@@ -2,7 +2,7 @@
 # Automated Investor Intelligence: CrunchBase to Google Sheets Data Harvester
 
 **Use for free**  
-[Click to explore](https://n8n.io/workflows/)
+[Click to explore](https://n8n.io/workflows/4731-automated-investor-intelligence-crunchbase-to-google-sheets-data-harvester/)
 
 **Created by:** Yaron Been || yaron-nofluff  
 **Last update:** 3 days ago
