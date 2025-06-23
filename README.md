@@ -2,6 +2,7 @@
 
 Welcome to the Awesome n8n Templates! This is a collection of pre-made n8n workflows and automation templates contributed by the community. These templates can help save you time by providing a starting point for your automations.
 
+
 # 🚀 Awesome n8n Templates
 
 A curated list of powerful and ready-to-use [n8n](https://n8n.io) workflows to supercharge your automation journey with AI, integrations, and productivity tools.
